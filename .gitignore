@@ -1,0 +1,2 @@
+# ignore everything in the root except the "key-points-short-description" directory.
+!key-points-short-description/
